@@ -7,7 +7,8 @@ conversion = {
     "sugar": 200,
     "butter": 227,
     "milk": 244,
-    "oil": 218
+    "oil": 218,
+    "oats": 90
 }
 
 #command-line arguments ingredient and how many cups to convert
